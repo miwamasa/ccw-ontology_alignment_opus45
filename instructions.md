@@ -1,0 +1,1 @@
+ontology-alignment以下を、ontology-alignment/README.mdに従い実行し、動作を確認して。
